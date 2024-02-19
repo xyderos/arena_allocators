@@ -1,0 +1,5 @@
+-I/usr/include
+-g
+-Weverything
+-Wno-c++98-compat
+-fsanitize=alignment
